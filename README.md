@@ -57,3 +57,4 @@ To cite this book, please use this bibtex entry:
 ```
 
 
+# deep-learning-book
